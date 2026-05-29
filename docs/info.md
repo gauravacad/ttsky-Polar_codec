@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-The 7 bit ALU performs arithmetic and logical operationson two 7 bit input operands
+The 7 bit ALU performs arithmetic and logical operationson two 7 bit input operands.
 
 
 ## How to test
